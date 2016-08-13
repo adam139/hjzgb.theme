@@ -1,0 +1,10 @@
+<layers>
+    
+    <!-- Enable the Diazo960 Theme layer when installed -->
+    
+    <layer
+        name="hjzgb.theme"
+        interface="hjzgb.theme.interfaces.IThemeSpecific"
+        />
+
+</layers>

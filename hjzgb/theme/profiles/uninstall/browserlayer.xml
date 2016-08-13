@@ -1,0 +1,11 @@
+<layers>
+    
+    <!-- Disable the Theme layer when uninstalled -->
+    
+    <layer
+        name="hjzgb.theme"
+        interface="hjzgb.theme.browser.interfaces.IThemeSpecific"
+        remove="True"
+        />
+
+</layers>
