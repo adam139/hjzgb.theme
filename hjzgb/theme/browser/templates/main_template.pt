@@ -148,7 +148,7 @@
     <footer id="portal-footer-wrapper" i18n:domain="plone">
       <div class="col-xs-12 text-center">
         <p>工作室地址：湖南省湘潭市雨湖區南嶺南路白石 古蓮城夏荷裏E棟140202號</p>
-        <p>&copy; 2013 画家张国斌官网 &middot; <a href="http://www.miibeian.gov.cn/">湘ICP备09024009号</a></p>
+        <p>&copy; 2013 画家张国斌官网 &middot;湘ICP备09024009号<a href="http://www.beian.miit.gov.cn/">备案查询</a></p>
         <p class="pull-right"><a href="#">返回顶部</a></p>
         <p>電話：13789326688 15580186688  郵編：411100</p>      
       </div>
